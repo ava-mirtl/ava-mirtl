@@ -9,7 +9,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/Belarus.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg.
 ---
 
 - :seedling: Studying Technical Content and literature on self-development.
