@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cJ4qe21kwG02fP4mEz/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
       <br>
 <h1 >
   Hey there!
@@ -9,17 +9,20 @@
 
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
 ---
-
-- :seedling: Studying Technical Content and literature on self-development.
-
-- :pie: In my free time, I bake cookies and pies.
-
-- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/darya-kalustava-4b7b52258/">
+<a href="https://www.linkedin.com/in/darya-kalustava-4b7b52258/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+
+- :computer: Work on pet projects
+
+- :seedling: Study Technical Content and literature on self-development.
+
+- :unicorn: Believe in myself
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
